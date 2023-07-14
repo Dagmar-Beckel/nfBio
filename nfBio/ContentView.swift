@@ -24,7 +24,7 @@ struct ContentView: View {
                         .font(.title)
                         .fontWeight(.bold)
                     Spacer()
-                    Text("American Rapper")
+                    Text("American Rapper") 
                 }
                 
                 Text("Nathan John Feuerstein, known by his initials NF, is an American rapper, singer, songwriter, and record producer. He has released two EPs, I'm Free, and a self-titled EP in 2014 with Capitol CMG. His first major-label album, Mansion, was released on March 31, 2015")
